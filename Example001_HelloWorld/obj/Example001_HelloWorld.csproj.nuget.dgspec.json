@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\Example001_HelloWorld.csproj": {}
+    "c:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\Example001_HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\Example001_HelloWorld.csproj": {
+    "c:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\Example001_HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\Example001_HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\Example001_HelloWorld.csproj",
         "projectName": "Example001_HelloWorld",
-        "projectPath": "C:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\Example001_HelloWorld.csproj",
+        "projectPath": "c:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\Example001_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Gullivert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\Gullivert\\Desktop\\учеба\\ExamplesCSharp\\Example001_HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gullivert\\AppData\\Roaming\\NuGet\\NuGet.Config"
